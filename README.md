@@ -1,2 +1,2 @@
 # benford
-quick demo to explore benford's law
+Quick demo to explore Benford's Law. Check out the [notebook](benford.ipynb)
